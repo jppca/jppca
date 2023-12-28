@@ -320,7 +320,7 @@
 </picture>
 
 <p align="right">
-<img align="center" src="https://user-images.githubusercontent.com 74038190218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="developer" height="60" width="30" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="developer" height="60" width="30" />
 </p>
 
 <h2 align="left">Connect with me:</h2>
