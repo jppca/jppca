@@ -319,6 +319,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="right">
+<img align="center" src="https://user-images.githubusercontent.com 74038190218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="developer" height="60" width="30" />
+</p>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://twitter.com/@jupa_pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jupa_pc" height="30" width="40" /></a>
