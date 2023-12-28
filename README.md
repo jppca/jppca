@@ -327,23 +327,25 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://twitter.com/@jupa_pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jupa_pc" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-pablo-p-990161219/" target="blank"><img
+   <a href="https://twitter.com/@jupa_pc" target="blank"><img align="center"
+      src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  
+      alt="@jupa_pc" height="60" width="60" /></a>
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-pablo-p-990161219/" target="blank"><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/juan-pablo-p-990161219/" height="30" width="40" /></a>
-  <a href="https://fb.com/https://www.facebook.com/juanpablo.parra.520/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="https://www.facebook.com/juanpablo.parra.520/" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/juanpa.parra.ca/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="30" width="40" /></a>
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+      alt="https://www.linkedin.com/in/juan-pablo-p-990161219/" height="60" width="60" /></a>
+   <a href="https://fb.com/https://www.facebook.com/juanpablo.parra.520/" target="blank"><img align="center"
+      src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif"
+      alt="https://www.facebook.com/juanpablo.parra.520/" height="60" width="60" /></a>
+   <a href="https://instagram.com/https://www.instagram.com/juanpa.parra.ca/" target="blank"><img align="center"
+      src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"
+      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" /></a>
   <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="30" width="40" />
+      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
   <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="30" width="40" />
+      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
   <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="30" width="40" />
+      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
   <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="30" width="40" />
+      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
 </p>
