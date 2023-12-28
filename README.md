@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **web development with CMS Drupal💧🤓.**
 
-- 🌱 I’m currently learning **Drupal and I am interested in getting into frontend development with React 😎🧑‍💻.**
+- 🌱 I’m currently learning **Drupal and I am interested in getting into frontend development with React and Flutter😎🧑‍💻.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jppca](https://github.com/jppca)
 
