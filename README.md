@@ -315,9 +315,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://twitter.com/@jupa_pc" target="blank"><img align="center"
-      src="https://private-user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM3MjE1MjcsIm5iZiI6MTcwMzcyMTIyNywicGF0aCI6Ii84MTM4NTg1LzI1NTU4MDQ3My1lOWUxMzQyMS04OWNmLTQ0NWItYjJlMi1lNTBlMDg2NDc4OWYuc3ZnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMTIyNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzEyMjdUMjM1MzQ3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzVlMWZkNjFjNjkyMTc4NTg1ZDE3MTkzYTYzNGYxMzdlMGYxYjRhOTM0Njc5NTI0Y2M1YTMyODhiZWJjZmY5YiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.-ye9INUvzfycoSGmJbcw5l6km8Tt-JbA1jOc1tPKlEs"
-      alt="@jupa_pc" height="30" width="40" /></a>
+  <a href="https://twitter.com/@jupa_pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jupa_pc" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-pablo-p-990161219/" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
