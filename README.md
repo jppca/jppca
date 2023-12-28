@@ -12,6 +12,7 @@
     </th>
   </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="gradient line" width="1024" height="" />
 <h1 align="center">Hi 👋, I'm Juan Pablo Parra</h1>
 <h2 align="center">A passionate software developer, interested in computer engineering.</h2>
 
@@ -287,6 +288,7 @@
     </td>
   </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="fading line" width="1024" />
 <h2 align="center"> 📈 Stats 📈 </h2>
 <table>
   <tr>
@@ -320,7 +322,7 @@
 </picture>
 
 <p align="right">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="developer" height="60" width="30" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="developer" height="200" width="200" />
 </p>
 
 <h2 align="left">Connect with me:</h2>
