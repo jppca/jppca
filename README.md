@@ -191,7 +191,7 @@
       <table>
         <tr>
           <th>Drupal</th>
-          <th>Wordpress</th>
+          <th>Wordpress + Elementor</th>
         </tr>
         <tr>
           <td>
@@ -202,6 +202,10 @@
           <td>
             <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
               <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" width="80"
+                height="40" />
+            </a>
+            <a href="https://elementor.com/" target="_blank" rel="noreferrer">
+              <img src="https://elementor.com/wp-content/uploads/2022/07/Full-logotype-Blue.svg" alt="elementor" width="80"
                 height="40" />
             </a>
           </td>
