@@ -14,7 +14,7 @@
 </table>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="gradient line" width="1024" height="" />
 <h1 align="center">Hi 👋, I'm Juan Pablo Parra</h1>
-<h2 align="center">A passionate software developer, interested in computer engineering.</h2>
+<h2 align="center">A passionate software developer 🌐🧑‍💻🤓</h2>
 
 - 🔭 I’m currently working on **web development with CMS Drupal💧🤓.**
 
