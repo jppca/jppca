@@ -325,10 +325,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="right">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="developer" height="200" width="200" />
-</p>
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
    <a href="https://twitter.com/@jupa_pc" target="blank"><img align="center"
@@ -344,12 +340,4 @@
    <a href="https://instagram.com/https://www.instagram.com/juanpa.parra.ca/" target="blank"><img align="center"
       src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"
       alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" /></a>
-  <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
-  <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
-  <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
-  <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
 </p>
