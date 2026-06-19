@@ -208,6 +208,10 @@
               <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/c3777a7e48a5a16a1e25ee11ab8004c28780a5c8/icons/elementor.svg" alt="elementor" width="80"
                 height="40" />
             </a>
+             <a href="https://www.elegantthemes.com/gallery/divi/" target="_blank" rel="noreferrer">
+              <img src="https://memberpress.com/wp-content/uploads/2020/07/Integrations-Divi-1724x970-1.svg" alt="Divi" width="80"
+                height="40" />
+            </a>           
           </td>
         </tr>
       </table>
