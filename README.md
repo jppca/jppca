@@ -116,6 +116,7 @@
         <tr>
           <th>PHP</th>
           <th>Java</th>
+          <th>C#</th>
         </tr>
         <tr>
           <td>
@@ -128,6 +129,12 @@
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                 alt="java" width="40" height="40" />
+            </a>
+          </td>
+          <td>
+            <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
+              <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg"
+                alt="c#" width="40" height="40" />
             </a>
           </td>
         </tr>
