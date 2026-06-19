@@ -205,7 +205,7 @@
                 height="40" />
             </a>
             <a href="https://elementor.com/" target="_blank" rel="noreferrer">
-              <img src="https://elementor.com/wp-content/uploads/2022/07/Full-logotype-Blue.svg" alt="elementor" width="80"
+              <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/c3777a7e48a5a16a1e25ee11ab8004c28780a5c8/icons/elementor.svg" alt="elementor" width="80"
                 height="40" />
             </a>
           </td>
