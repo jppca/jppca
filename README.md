@@ -191,7 +191,7 @@
       <table>
         <tr>
           <th>Drupal</th>
-          <th>Wordpress + Elementor</th>
+          <th>Wordpress (Elementor, Divi)</th>
         </tr>
         <tr>
           <td>
